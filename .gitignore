@@ -1,0 +1,7 @@
+trabajo/
+herramientas/
+mi_clave/
+*.apk
+*.droid
+*.win
+__pycache__/
